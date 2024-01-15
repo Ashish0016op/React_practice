@@ -1,0 +1,32 @@
+.Container1{
+    background-color: white;
+    width: 500px;
+    height: 250px;
+    margin: 42px;
+    outline: solid 1px black;
+    border-radius: 10px;
+    margin-left: 35%;
+}
+.InputForm label{
+    margin-left: 17px;
+}
+.InputForm input{
+    width: 454px;
+    margin-left: 16px;
+    margin-top: 9px;
+}
+.InputForm{
+    padding-top: 7%;
+}
+.InputForm button{
+    margin-left: 17px;
+    margin-top: 12px;
+    background-color: burlywood;
+    height: 39px;
+    width: 109px;
+    cursor: grab;
+}
+.InputForm button:hover{
+    background-color: #5a2f85;
+    color: white;
+}
